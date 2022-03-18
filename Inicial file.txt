@@ -2,3 +2,5 @@ Inicial file for master class.
 
 - Developer creation
 -Last check
+
+- New relase
