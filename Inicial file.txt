@@ -1,1 +1,3 @@
-Inicial file for master class
+Inicial file for master class.
+
+- Developer creation
